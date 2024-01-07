@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif;
+}
+
+.container {
+    width: 70vw;
+    height: 65vh;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    border: 10px solid #00978e;
+}
